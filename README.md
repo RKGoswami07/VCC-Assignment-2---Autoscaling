@@ -1,10 +1,17 @@
 Commands used:
 
 sudo apt update
+
 sudo apt install python3 python3-pip
+
 python3 –version
+
 python3 -m http.server 8000
+
 python3 -m http.server 8080
+
 sudo apt install stress
+
 stress --cpu 4 --timeout 300s
+
 top
